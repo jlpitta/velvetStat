@@ -1,0 +1,4 @@
+Strain;number of contigs;total contigs length;mean contig size;contig size first quartile;median contig size;contig size third quartile;longest contig;shortest contig;contigs > 500 nt;contigs > 1K nt;contigs > 10K nt;contigs > 100K nt;contigs > 1M nt;N50;L50;N80;L80
+S1;258;4598418;17823.33;490;8568;30049;124380;101;192(74.42%);180(69.77%);116(44.96%);2(0.78%);0(0.00%);44992;38;20764;80
+S2;323;4589765;14209.80;315;4485;24030;106747;100;219(67.80%);192(59.44%);123(38.08%);2(0.62%);0(0.00%);39176;41;20522;88
+S3;368;4589901;12472.56;347;5296;19640;97539;101;262(71.20%);242(65.76%);138(37.50%);0(0.00%);0(0.00%);31202;51;15401;110
